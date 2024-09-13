@@ -31,8 +31,12 @@ section {
 }
 
 div {
-    text-align: center;
+    text-align: justify;
     padding: 8px;
+}
+
+div > p {
+    padding: 10px;
 }
 
 img {
